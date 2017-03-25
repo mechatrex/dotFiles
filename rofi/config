@@ -1,0 +1,9 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: argb:af273238, argb:0273238, argb:01e2529
+rofi.color-normal: argb:0273238, #c5c8c6, argb:0273238, argb:0394249, #ffffff
+rofi.color-active: argb:0273238, #80cbc4, argb:0273238, argb:0394249, #80cbc4
+rofi.color-urgent: argb:0273238, #a54242, argb:0273238, argb:0394249, #cc6666
+rofi.font: Liberation Mono for Powerline 12
